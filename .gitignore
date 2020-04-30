@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
@@ -112,3 +113,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# archived/secret folders for dev purposes
+/archive/
+/data/sleep-score
+/data/user-site-export
+/data/fitbit_export*
+/secret
