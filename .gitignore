@@ -119,4 +119,4 @@ dmypy.json
 /data/sleep-score
 /data/user-site-export
 /data/fitbit_export*
-/secret
+secret.py
