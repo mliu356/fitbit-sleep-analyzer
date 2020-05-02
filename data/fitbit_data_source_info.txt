@@ -1,5 +1,0 @@
-sleep-score and user-site-export folders are copied from MyFitbitData.zip, under "Export Your Account Archive". Note: this can only be done once per 24 hours.
-
-"fitbit_export_20200430.csv" is from exporting "Your Fitbit Data" for a one-month period.
-
-<update later to include how to add those files in>
