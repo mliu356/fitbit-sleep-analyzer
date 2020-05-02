@@ -115,8 +115,7 @@ dmypy.json
 .pyre/
 
 # archived/secret folders for dev purposes
-/archive/
 /data/sleep-score
 /data/user-site-export
-/data/fitbit_export*
+/data/*.csv
 secret.py
