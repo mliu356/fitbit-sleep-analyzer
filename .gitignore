@@ -118,4 +118,5 @@ dmypy.json
 /data/sleep-score
 /data/user-site-export
 /data/*.csv
+/data/my_database.xls
 secret.py
